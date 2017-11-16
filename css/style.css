@@ -1,0 +1,44 @@
+body{
+  margin: 0px;
+
+}
+.main-image{
+  margin: 0px;
+  position: absolute;
+  top:0px;
+}
+.top-items{
+  position: relative;
+  z-index: 2;
+}
+.menu{
+  margin-left: 280px;
+
+  list-style: none;
+}
+.navbar-options{
+  float: left;
+  margin:10px;
+  text-transform: uppercase;
+  font-family: 'poppins';
+  font-size: 20px;
+  padding: 10px;
+}
+.main-image img{
+  width: 98.99vw;
+  height: 120vh;
+}
+.top-text{
+  position: absolute;
+  top:150px;
+  font-size: 20px;
+
+}
+.floating-text
+{
+font-style: 'Poppins';
+font-size: 50px;
+margin-left: 420px;
+text-align: center;
+color:#1aa260;
+}
